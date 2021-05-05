@@ -1,0 +1,472 @@
+$date
+	Thu Nov 19 14:50:10 2020
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	100ps
+$end
+$scope module tb $end
+$var wire 4 ! out [3:0] $end
+$var reg 1 " clk $end
+$var reg 1 # reset $end
+$scope module s_g0 $end
+$var wire 1 " clock $end
+$var wire 1 # reset $end
+$var wire 1 $ s3 $end
+$var wire 1 % s2 $end
+$var wire 1 & s1 $end
+$var wire 4 ' out [3:0] $end
+$var wire 1 ( c1 $end
+$scope module a_0 $end
+$var wire 1 ) ip0 $end
+$var wire 1 * ip1 $end
+$var wire 1 ( out $end
+$upscope $end
+$scope module d_0 $end
+$var wire 1 " clk $end
+$var wire 1 # reset $end
+$var wire 1 + reset_ $end
+$var wire 1 , out $end
+$var wire 1 & in $end
+$var wire 1 - df_in $end
+$scope module and2_0 $end
+$var wire 1 - out $end
+$var wire 1 + ip1 $end
+$var wire 1 & ip0 $end
+$upscope $end
+$scope module df_0 $end
+$var wire 1 " clk $end
+$var wire 1 - in $end
+$var wire 1 , out $end
+$var reg 1 , df_out $end
+$upscope $end
+$scope module invert_0 $end
+$var wire 1 # ip $end
+$var wire 1 + out $end
+$upscope $end
+$upscope $end
+$scope module d_1 $end
+$var wire 1 " clk $end
+$var wire 1 # reset $end
+$var wire 1 . reset_ $end
+$var wire 1 / out $end
+$var wire 1 % in $end
+$var wire 1 0 df_in $end
+$scope module and2_0 $end
+$var wire 1 0 out $end
+$var wire 1 . ip1 $end
+$var wire 1 % ip0 $end
+$upscope $end
+$scope module df_0 $end
+$var wire 1 " clk $end
+$var wire 1 0 in $end
+$var wire 1 / out $end
+$var reg 1 / df_out $end
+$upscope $end
+$scope module invert_0 $end
+$var wire 1 # ip $end
+$var wire 1 . out $end
+$upscope $end
+$upscope $end
+$scope module d_2 $end
+$var wire 1 " clk $end
+$var wire 1 # reset $end
+$var wire 1 1 reset_ $end
+$var wire 1 2 out $end
+$var wire 1 $ in $end
+$var wire 1 3 df_in $end
+$scope module and2_0 $end
+$var wire 1 3 out $end
+$var wire 1 1 ip1 $end
+$var wire 1 $ ip0 $end
+$upscope $end
+$scope module df_0 $end
+$var wire 1 " clk $end
+$var wire 1 3 in $end
+$var wire 1 2 out $end
+$var reg 1 2 df_out $end
+$upscope $end
+$scope module invert_0 $end
+$var wire 1 # ip $end
+$var wire 1 1 out $end
+$upscope $end
+$upscope $end
+$scope module i_0 $end
+$var wire 1 4 ip $end
+$var wire 1 & out $end
+$upscope $end
+$scope module x_0 $end
+$var wire 1 5 ip0 $end
+$var wire 1 6 ip1 $end
+$var wire 1 % out $end
+$upscope $end
+$scope module x_1 $end
+$var wire 1 ( ip0 $end
+$var wire 1 7 ip1 $end
+$var wire 1 $ out $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+x7
+x6
+x5
+x4
+03
+x2
+01
+00
+x/
+0.
+0-
+x,
+0+
+x*
+x)
+x(
+bx0 '
+x&
+x%
+x$
+1#
+0"
+bx0 !
+$end
+#50
+0$
+0(
+0%
+0*
+06
+1&
+04
+0)
+05
+07
+0,
+0/
+b0 !
+b0 '
+02
+1"
+#100
+1-
+0"
+1+
+1.
+11
+0#
+#150
+10
+1%
+0-
+1*
+16
+0&
+14
+b10 !
+b10 '
+1,
+1"
+#200
+0"
+#250
+1-
+0*
+06
+1&
+04
+1)
+15
+0,
+b100 !
+b100 '
+1/
+1"
+#300
+0"
+#350
+13
+1$
+00
+1(
+0%
+0-
+1*
+16
+0&
+14
+b110 !
+b110 '
+1,
+1"
+#400
+0"
+#450
+13
+1-
+0(
+1$
+0*
+06
+1&
+04
+0)
+05
+17
+0,
+0/
+b1000 !
+b1000 '
+12
+1"
+#500
+0"
+#550
+10
+1%
+0-
+1*
+16
+0&
+14
+b1010 !
+b1010 '
+1,
+1"
+#600
+0"
+#650
+1-
+0*
+06
+1&
+04
+1)
+15
+0,
+b1100 !
+b1100 '
+1/
+1"
+#700
+0"
+#750
+03
+0$
+00
+1(
+0%
+0-
+1*
+16
+0&
+14
+b1110 !
+b1110 '
+1,
+1"
+#800
+0"
+#850
+03
+1-
+0(
+0$
+0*
+06
+1&
+04
+0)
+05
+07
+0,
+0/
+b0 !
+b0 '
+02
+1"
+#900
+0"
+#950
+10
+1%
+0-
+1*
+16
+0&
+14
+b10 !
+b10 '
+1,
+1"
+#1000
+0"
+#1050
+1-
+0*
+06
+1&
+04
+1)
+15
+0,
+b100 !
+b100 '
+1/
+1"
+#1100
+0"
+#1150
+13
+1$
+00
+1(
+0%
+0-
+1*
+16
+0&
+14
+b110 !
+b110 '
+1,
+1"
+#1200
+0"
+#1250
+13
+1-
+0(
+1$
+0*
+06
+1&
+04
+0)
+05
+17
+0,
+0/
+b1000 !
+b1000 '
+12
+1"
+#1300
+0"
+#1350
+10
+1%
+0-
+1*
+16
+0&
+14
+b1010 !
+b1010 '
+1,
+1"
+#1400
+0"
+#1450
+1-
+0*
+06
+1&
+04
+1)
+15
+0,
+b1100 !
+b1100 '
+1/
+1"
+#1500
+0"
+#1550
+03
+0$
+00
+1(
+0%
+0-
+1*
+16
+0&
+14
+b1110 !
+b1110 '
+1,
+1"
+#1600
+0"
+#1650
+03
+1-
+0(
+0$
+0*
+06
+1&
+04
+0)
+05
+07
+0,
+0/
+b0 !
+b0 '
+02
+1"
+#1700
+0"
+#1750
+10
+1%
+0-
+1*
+16
+0&
+14
+b10 !
+b10 '
+1,
+1"
+#1800
+0"
+#1850
+1-
+0*
+06
+1&
+04
+1)
+15
+0,
+b100 !
+b100 '
+1/
+1"
+#1900
+0"
+#1950
+13
+1$
+00
+1(
+0%
+0-
+1*
+16
+0&
+14
+b110 !
+b110 '
+1,
+1"
+#2000
+0"
